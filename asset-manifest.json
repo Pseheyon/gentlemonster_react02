@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pseheyon/-gentlemonster_react02.git/static/css/main.10bc7bee.css",
+    "main.js": "/Pseheyon/-gentlemonster_react02.git/static/js/main.546047a8.js",
+    "static/js/787.02d2677e.chunk.js": "/Pseheyon/-gentlemonster_react02.git/static/js/787.02d2677e.chunk.js",
+    "static/media/bannerBack.png": "/Pseheyon/-gentlemonster_react02.git/static/media/bannerBack.9ac7383e627f29468e75.png",
+    "index.html": "/Pseheyon/-gentlemonster_react02.git/index.html",
+    "main.10bc7bee.css.map": "/Pseheyon/-gentlemonster_react02.git/static/css/main.10bc7bee.css.map",
+    "main.546047a8.js.map": "/Pseheyon/-gentlemonster_react02.git/static/js/main.546047a8.js.map",
+    "787.02d2677e.chunk.js.map": "/Pseheyon/-gentlemonster_react02.git/static/js/787.02d2677e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10bc7bee.css",
+    "static/js/main.546047a8.js"
+  ]
+}
